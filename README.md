@@ -1,4 +1,4 @@
-This builds an Image for a Pi3 or Pi4 (aarch64) that:
+This builds an Image for a Pi3 or Pi4 (aarch64).
 
 # Usage
 
